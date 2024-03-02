@@ -2,13 +2,7 @@
 
 **`CodeSmith (A Keen Developer)`**
 
-I'm Yash, A recent graduate with a degree in B.Tech CSE, and I'm passionate about diving into the world of development. My primary tech stack is MERN (MongoDB, Express.js, React, Node.js), and I'm well-versed in several programming languages, including Python, Java, SQL, and Typescript.
-
-I've built a strong foundation in system technologies, working with tools like Version Control Systems to manage collaborative projects seamlessly. Additionally, my experience extends to containerization with Docker and database management with MongoDB.
-
-Beyond my technical toolkit, I've actively applied my skills to projects that showcase my problem-solving abilities and creativity. I'm excited to contribute my expertise and continue growing as a developer within the Devfolio community.
-
-Looking forward to connecting with like-minded individuals and exploring innovative opportunities together!
+I'm Yash, A Freshman with a degree in B.Tech CSE, and I'm passionate about diving into the world of development which fascinates me to Question that "How bunch of lines of codes and say 0's & 1's can change the Entire Perspective of this World that we're living?". I'm a Full Stack Web Developer and want to be a Content Creator(ASAP), So I can give back to the Community and obviously to present myself to the whole world that "I DO EXIST"!! The Coding Projects that I'm going to be list down will not be any Clone of any WebApp that already existed, Projects will be Purely Based on Real-World Problems and I'll try to Plan, Design and Solve them!
 
 ---
 
@@ -82,4 +76,4 @@ Looking forward to connecting with like-minded individuals and exploring innovat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpanchalin)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanchalin&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpanchalin&size_weight=0.5&count_weight=0.5_ranking_index = (byte_count ^ size_weight) \* (repo_count ^ count_weight))
