@@ -75,7 +75,7 @@ Looking forward to connecting with like-minded individuals and exploring innovat
 
   <h3>🔥 Github Streak Stats</h3>
   <p>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashpanchalin&theme=transparent" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashpanchaliin&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
