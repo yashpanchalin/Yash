@@ -72,3 +72,12 @@ Looking forward to connecting with like-minded individuals and exploring innovat
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+  <h3>🔥 Github Streak Stats</h3>
+  <p>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashpanchaliin&theme=transparent" alt="GitHub Streak" /></a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpanchalin)](https://github.com/anuraghazra/github-readme-stats)
